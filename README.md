@@ -1,3 +1,7 @@
 # Cygnus
 
-Cygnus is an easy-to-understand object-oriented programming language.
+Cygnus is a language run directly by the console. its purpose is to simplify operating systems command prompt commands.
+
+# Command [LIS]
+
+
